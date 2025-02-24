@@ -1,0 +1,2 @@
+# Event-Management-System
+ The Event Management System is a web-based application designed for planning, tracking, and managing events. The project was developed using C# and ASP.NET MVC, following a N-tier architecture for a modular structure. A relational database was designed with MSSQL, and data operations were handled using Entity Framework. CRUD operations were implemented with a dynamic interface, enhancing user experience with jQuery and Bootstrap. The system optimizes event processes by managing events, participants, tickets, and venues efficiently.
